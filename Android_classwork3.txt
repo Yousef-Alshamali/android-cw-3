@@ -1,0 +1,19 @@
+Question 1
+
+Answer: EditText
+
+Question 2
+
+Answer: Font
+
+Question 3
+
+Answer: Background Tint
+
+Question 4
+
+Answer: Logcat
+
+Question 5
+
+Answer: wrong
